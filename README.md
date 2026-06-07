@@ -8,7 +8,9 @@
 
 | 文件 | 说明 |
 |------|------|
-| [krdict.apk](krdict.apk) | 安装包（约 35 MB，含离线词典数据） |
+| [krdict.apk](krdict.apk) | 安装包（75.3 MB，含离线词典数据） |
+
+**词条数量：** 默认 [krdict](https://krdict.korean.go.kr/) **54,839** 条；开启 stdict 后共 **410,934** 条
 
 **系统要求：** Android 7.0（API 24）及以上
 
