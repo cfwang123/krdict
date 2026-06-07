@@ -4,12 +4,6 @@
 
 基于 [국립국어원 사전 / korean-dict-nikl](https://github.com/spellcheck-ko/korean-dict-nikl) 数据的离线韩语词典 Android 客户端。支持韩/中/英/日多语释义、全文搜索、TTS 发音与界面四语切换。
 
-## 下载
-
-| 文件 | 说明 |
-|------|------|
-| [krdict.apk](krdict.apk) | 安装包（75.3 MB，含离线词典数据） |
-
 **词条数量：** 默认 [krdict](https://krdict.korean.go.kr/) **54,839** 条；开启 stdict 后共 **410,934** 条
 
 **系统要求：** Android 7.0（API 24）及以上

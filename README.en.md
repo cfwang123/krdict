@@ -4,12 +4,6 @@
 
 An offline Korean dictionary Android app powered by [국립국어원 사전 / korean-dict-nikl](https://github.com/spellcheck-ko/korean-dict-nikl). Supports Korean/Chinese/English/Japanese definitions, full-text search, TTS, and a four-language UI.
 
-## Download
-
-| File | Description |
-|------|-------------|
-| [krdict.apk](krdict.apk) | APK (75.3 MB, includes offline dictionary data) |
-
 **Entries:** **54,839** from [krdict](https://krdict.korean.go.kr/) by default; **410,934** total with stdict enabled
 
 **Requirements:** Android 7.0 (API 24) or later
