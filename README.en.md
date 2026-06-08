@@ -19,11 +19,11 @@ An offline Korean dictionary Android app powered by [국립국어원 사전 / ko
 
 | Home | Search results |
 |:---:|:---:|
-| ![Home](screenshots/01-home.png) | ![Search results](screenshots/02-search.png) |
+| ![Home](screenshots/01-home.jpg) | ![Search results](screenshots/02-search.jpg) |
 
 | Entry detail | Settings |
 |:---:|:---:|
-| ![Entry detail](screenshots/03-detail.png) | ![Settings](screenshots/04-settings.png) |
+| ![Entry detail](screenshots/03-detail.jpg) | ![Settings](screenshots/04-settings.jpg) |
 
 ## Features
 

@@ -19,11 +19,11 @@
 
 | 搜索首页 | 搜索结果 |
 |:---:|:---:|
-| ![搜索首页](screenshots/01-home.png) | ![搜索结果](screenshots/02-search.png) |
+| ![搜索首页](screenshots/01-home.jpg) | ![搜索结果](screenshots/02-search.jpg) |
 
 | 词条详情 | 设置 |
 |:---:|:---:|
-| ![词条详情](screenshots/03-detail.png) | ![设置](screenshots/04-settings.png) |
+| ![词条详情](screenshots/03-detail.jpg) | ![设置](screenshots/04-settings.jpg) |
 
 ## 功能
 
